@@ -1,0 +1,23 @@
+General Statistics : 
+-------------------------
+
+Total number of customers entered the bank : 21 customers.
+
+Average waiting time of withdraw service :
+  clerk 1 = 15 mins.
+  clerk 2 = 0 mins.
+
+Average waiting time of deposit service :
+  clerk 1 = 10 mins.
+  clerk 2 = 7 mins.
+
+Average waiting time of transfer service :
+  clerk 1 = 24 mins.
+  clerk 2= 0 mins.
+
+Percentage of customers in : 
+ 1.Withdraw service  = 19.0476%
+ 2.Deposit service   = 42.8571%
+ 3.Transfer service  = 38.0952%
+
+Expected finishing time to finish all services = 56 mins.

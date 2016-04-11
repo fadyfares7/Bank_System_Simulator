@@ -1,0 +1,9 @@
+Deposit clerk 1
+
+ID     State     Waiting Time     Finish Time     Ticket     Turn   
+--------------------------------------------------------------------
+1      served    0                5               0          -1     
+6      served    5                10              1          -1     
+8      serving   10               15              2          0      
+10     waiting   15               20              3          1      
+12     waiting   20               25              4          2      

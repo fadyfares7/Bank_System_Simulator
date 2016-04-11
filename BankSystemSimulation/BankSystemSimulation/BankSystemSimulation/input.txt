@@ -1,0 +1,27 @@
+add clerk
+deposit
+
+add customer
+deposit
+transfer
+withdraw
+transfer
+deposit
+deposit
+deposit
+deposit
+deposit
+deposit
+deposit
+deposit
+transfer
+withdraw
+transfer
+withdraw
+transfer
+withdraw
+transfer
+transfer
+transfer
+end
+simulate 12
